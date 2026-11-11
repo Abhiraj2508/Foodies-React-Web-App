@@ -143,4 +143,4 @@ Foodies-main/
 ├── tailwind.config.js                # Custom theme & animations
 └── vite.config.js                    # Vite configuration
 ```
-
+Testing automatic Jenkins CI/CD trigger.
